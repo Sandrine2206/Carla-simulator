@@ -1,0 +1,48 @@
+Brand;Model;Type;Blueprint_ID;Height (mm);Weight (kg)
+Audi;A2;Car;vehicle.audi.a2;1553;895
+Ford;Ambulance;Van;vehicle.ford.ambulance;2787;3500
+Citroen;C3;Car;vehicle.citroen.c3;1577;1100
+CARLA Motors;CarlaCola;Truck;vehicle.carlamotors.carlacola;;
+Diamondback;Century;Bicycle;vehicle.diamondback.century;;9,21
+Dodge;Charger 2020;Car;vehicle.dodge.charger_2020;1 467;1964
+Mini;Cooper S;Car;vehicle.mini.cooperst;1464;1275
+Mini;Cooper S;Car;vehicle.mini.cooper_s;1464;1275
+Mini;Cooper S 2021;Car;vehicle.mini.cooper_s_2021;1464;1275
+Mercedes;Coupe;Car;vehicle.mercedes-benz.coupe;1405;1700
+Mercedes;Coupe;Car;vehicle.mercedes.coupe;1405;1700
+Mercedes;Coupe 2020;Car;vehicle.mercedes.coupe_2020;1405;1 505
+BH;Crossbike;Bicycle;vehicle.bh.crossbike;;48,5
+Ford;Crown (taxi);Car;vehicle.ford.crown;1 490;1700
+Tesla;Cybertruck;Truck;vehicle.tesla.cybertruck;1796;4 159
+Audi;E-Tron;Car;vehicle.audi.etron;1 629;2555
+CARLA Motors;European HGV (cab-over-engine type);Truck;vehicle.carlamotors.european_hgv;;
+CARLA Motors;Firetruck;Truck;vehicle.carlamotors.firetruck;;
+Mitsubishi;Fusorosa;Bus;vehicle.mitsubishi.fusorosa;2630;3680
+BMW;Gran Tourer;Car;vehicle.bmw.grandtourer;1608;1 615
+BMW;Gran Tourer;Car;vehicle.bmw.grantourer;1608;1 615
+Chevrolet;Impala;Car;vehicle.chevrolet.impala;1 496;1717
+Seat;Leon;Car;vehicle.seat.leon;1456;1361
+Harley Davidson;Low Rider;Motorcycle;vehicle.harley-davidson.low_rider;;308
+Nissan;Micra;Car;vehicle.nissan.micra;1455;1000
+Micro;Microlino;Car;vehicle.micro.microlino;1463;500
+Lincoln;MKZ 2017;Car;vehicle.lincoln.mkz2017;1 450;1700
+Lincoln;MKZ 2017;Car;vehicle.lincoln.mkz_2017;1 450;1700
+Lincoln;MKZ 2020;Car;vehicle.lincoln.mkz_2020;1 450;1700
+Tesla;Model 3;Car;vehicle.tesla.model3;1440;1847
+Ford;Mustang;Car;vehicle.mustang.mustang;1404;1691
+Ford;Mustang;Car;vehicle.ford.mustang;1404;1691
+Kawasaki;Ninja;Motorcycle;vehicle.kawasaki.ninja;;168
+Gazelle;Omafiets;Bicycle;vehicle.gazelle.omafiets;;40
+Nissan;Patrol;Car;vehicle.nissan.patrol;1855;2190
+Nissan;Patrol 2021;Car;vehicle.nissan.patrol_2021;1855;2715
+Dodge;Police Charger;Car;vehicle.dodge_charger.police;1 467;1800
+Dodge;Police Charger;Car;vehicle.dodge.charger_police;1 467;1800
+Dodge;Police Charger 2020;Car;vehicle.dodge.charger_police_2020;1 467;1964
+Toyota;Prius;Car;vehicle.toyota.prius;1430;1375
+Mercedes;Sprinter;Van;vehicle.mercedes.sprinter;2611;2355
+Volkswagen;T2;Van;vehicle.volkswagen.t2;2260;1400
+Volkswagen;T2 2021;Van;vehicle.volkswagen.t2_2021;2 260;1400
+Audi;TT;Car;vehicle.audi.tt;1352;1260
+Jeep;Wrangler Rubicon;Car;vehicle.jeep.wrangler_rubicon;1 868;2 370
+Yamaha;YZF;Motorcycle;vehicle.yamaha.yzf;;201
+Vespa;ZX 125;Motorcycle;vehicle.vespa.zx125;;115

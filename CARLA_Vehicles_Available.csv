@@ -1,0 +1,27 @@
+Brand;Model;Type;Blueprint_ID;Height (mm);Weight (kg)
+Audi;A2;Car;vehicle.audi.a2;1553;895
+Citroen;C3;Car;vehicle.citroen.c3;1577;1100
+CARLA Motors;CarlaCola;Truck;vehicle.carlamotors.carlacola;;
+Diamondback;Century;Bicycle;vehicle.diamondback.century;;9,21
+Mini;Cooper S;Car;vehicle.mini.cooperst;1464;1275
+Mercedes;Coupe;Car;vehicle.mercedes-benz.coupe;1405;1700
+BH;Crossbike;Bicycle;vehicle.bh.crossbike;;48,5
+Tesla;Cybertruck;Truck;vehicle.tesla.cybertruck;1796;4 159
+Audi;E-Tron;Car;vehicle.audi.etron;1 629;2555
+BMW;Gran Tourer;Car;vehicle.bmw.grandtourer;1608;1 615
+Chevrolet;Impala;Car;vehicle.chevrolet.impala;1 496;1717
+Seat;Leon;Car;vehicle.seat.leon;1456;1361
+Harley Davidson;Low Rider;Motorcycle;vehicle.harley-davidson.low_rider;;308
+Nissan;Micra;Car;vehicle.nissan.micra;1455;1000
+Lincoln;MKZ 2017;Car;vehicle.lincoln.mkz2017;1 450;1700
+Tesla;Model 3;Car;vehicle.tesla.model3;1440;1847
+Ford;Mustang;Car;vehicle.mustang.mustang;1404;1691
+Kawasaki;Ninja;Motorcycle;vehicle.kawasaki.ninja;;168
+Gazelle;Omafiets;Bicycle;vehicle.gazelle.omafiets;;40
+Nissan;Patrol;Car;vehicle.nissan.patrol;1855;2190
+Dodge;Police Charger;Car;vehicle.dodge_charger.police;1 467;1800
+Toyota;Prius;Car;vehicle.toyota.prius;1430;1375
+Volkswagen;T2;Van;vehicle.volkswagen.t2;2260;1400
+Audi;TT;Car;vehicle.audi.tt;1352;1260
+Jeep;Wrangler Rubicon;Car;vehicle.jeep.wrangler_rubicon;1 868;2 370
+Yamaha;YZF;Motorcycle;vehicle.yamaha.yzf;;201
