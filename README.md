@@ -1,5 +1,3 @@
-# ESME3TD2025CARLA
-
 # Simuler pour Sauver - Analyse de la Sécurité Routière avec CARLA
 
 ### Projet réalisé par :
